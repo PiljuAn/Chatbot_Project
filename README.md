@@ -56,8 +56,8 @@ https://drive.google.com/drive/folders/1-7KBtHf8ZT6oPVIB0RduHkw2TK1PUxFz?usp=sha
 <br><br>
 
 ## ℹ 프로젝트 소개
-국•내외 챗봇에 대한 관심이 증가함에 따라 코딩 챗봇 교육의 필요성이 부각되었다. 이에 유사한 서비스를 제공하는 챗봇을 분석과 SWOT 분석을 통해 사업전략을 수립하고 챗봇을 개발하였다. 챗봇은 LLM과 프롬프트 엔지니어링을 이용해 개발하였으며, 무료 모델을 사용하여 경제적인 부담을 감소시켰다. </br>
-CodeGenius는 실시간 질의 응답이 가능하며, history 창으로 질문한 내용을 저장함과 동시에 행동데이터를 DB에 기록한다. CodeGenius는 기존에 진행하는 교육에 보조 도구로 활용이 가능하며 특히 비전공자에게 적합하다. 대시보드를 활용해 학습자의 행동 데이터를 일마다 관리해 학습 경향 파악이 가능하다. 추후 데이터를 활용한 추가 학습으로 성능을 향상시키고, 더 나아가 유료화를 통해 수익성을 기대할 수 있다. </br>
+ 비대면 코딩 교육이 보편화되면서, 챗봇을 이용한 보다 효과적인 코딩 교육의 필요성이 부각되고 있다. 이에 대응하여 유사한 서비스를 조사하고, SWOT 분석을 통해 챗봇을 개발하기 위한 사업전략을 수립하였다. LLM 오픈소스 모델과 프롬프트 엔지니어링을 이용해 개발 기간을 단축하고, 비용을 최소화하였다. </br>
+ 챗봇 CodeGenius는 코딩 교육에서 보조 도구로 활용이 가능하며, 특히 비전공자에게 적합한 양상을 보인다. Chatting 창에서 실시간 질의 응답이 가능하며, history 창에서 대화 내용을 저장하고, 행동데이터가 DB에 기록된다. 대시보드에서 학습자의 학습 경향 파악이 가능하다는 장점이 있다. 향후 누적되는 데이터를 추가 학습하여 성능을 향상시키고 상용화할 수 있다. </br>
 <br>
 
 ## 🛠️ 기능
@@ -101,26 +101,27 @@ CodeGenius는 ko-GPT2와 Gemini - OpenAPI를 적용한 챗봇으로, 다양한 �
 <br/>
 
 ## 📝 사용자 매뉴얼
-<img width="743" height="548" alt="loading..." src="https://github.com/PlutoJoshua/CodeGenius_Project/raw/main/Model/assets/manual1.png">
+<img width="743" height="418" alt="loading..." src="https://github.com/PlutoJoshua/CodeGenius_Project/raw/main/Model/assets/manual1.png">
 
-<img width="743" height="548" alt="loading..." src="https://github.com/PlutoJoshua/CodeGenius_Project/raw/main/Model/assets/manual2.png">
+<img width="743" height="418" alt="loading..." src="https://github.com/PlutoJoshua/CodeGenius_Project/raw/main/Model/assets/manual2.png">
 
-<img width="743" height="548" alt="loading..." src="https://github.com/PlutoJoshua/CodeGenius_Project/raw/main/Model/assets/manual3.png">
+<img width="743" height="418" alt="loading..." src="https://github.com/PlutoJoshua/CodeGenius_Project/raw/main/Model/assets/manual3.png">
 
-<img width="743" height="548" alt="loading..." src="https://github.com/PlutoJoshua/CodeGenius_Project/raw/main/Model/assets/manual4.png">
+<img width="743" height="418" alt="loading..." src="https://github.com/PlutoJoshua/CodeGenius_Project/raw/main/Model/assets/manual4.png">
 
-<img width="743" height="548" alt="loading..." src="https://github.com/PlutoJoshua/CodeGenius_Project/raw/main/Model/assets/manual5.png">
+<img width="743" height="418" alt="loading..." src="https://github.com/PlutoJoshua/CodeGenius_Project/raw/main/Model/assets/manual5.png">
 
-<img width="743" height="548" alt="loading..." src="https://github.com/PlutoJoshua/CodeGenius_Project/raw/main/Model/assets/manual6.png">
+<img width="743" height="418" alt="loading..." src="https://github.com/PlutoJoshua/CodeGenius_Project/raw/main/Model/assets/manual6.png">
 
-<img width="743" height="548" alt="loading..." src="https://github.com/PlutoJoshua/CodeGenius_Project/raw/main/Model/assets/manual7.png">
+<img width="743" height="418" alt="loading..." src="https://github.com/PlutoJoshua/CodeGenius_Project/raw/main/Model/assets/manual7.png">
 
-<img width="743" height="548" alt="loading..." src="https://github.com/PlutoJoshua/CodeGenius_Project/raw/main/Model/assets/manual8.png">
+<img width="743" height="418" alt="loading..." src="https://github.com/PlutoJoshua/CodeGenius_Project/raw/main/Model/assets/manual8.png">
 
 
 <br/>
 
-## 🎬 실행 화면 (썸네일 클릭 시 영상 재생)
+## 🎬 실행 화면
+* 썸네일 클릭 시 영상이 재생됩니다</br>
 [![Video Label](http://img.youtube.com/vi/mKGebMXqngw/0.jpg)](https://youtu.be/-qK1lGQBR6I?si=wUpm7huP6amODgWb)
 
 <br/>
